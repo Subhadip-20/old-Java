@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Collection
+comment1.params=
+comment1.target=Collection()
+comment2.params=a
+comment2.target=Collection(int)
+comment3.params=
+comment3.target=void\ inparr()
+comment4.params=d
+comment4.target=Collection\ common(Collection)
+comment5.params=
+comment5.target=void\ arrange()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=
+comment7.target=void\ removeduplicate()
+numComments=8

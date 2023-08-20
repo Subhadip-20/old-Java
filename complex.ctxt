@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=complex
+comment1.params=real\ imag
+comment1.target=complex(double,\ double)
+comment2.params=b
+comment2.target=complex\ plus(complex)
+comment3.params=b
+comment3.target=complex\ times(complex)
+comment4.params=
+comment4.target=double\ abs()
+comment5.params=
+comment5.target=double\ Re()
+comment6.params=
+comment6.target=double\ Im()
+comment7.params=
+comment7.target=java.lang.String\ tostring()
+comment8.params=
+comment8.target=void\ main()
+numComments=9

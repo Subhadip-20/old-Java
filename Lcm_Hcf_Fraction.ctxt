@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Lcm_Hcf_Fraction
+comment1.params=
+comment1.target=void\ Lcm()
+comment2.params=
+comment2.target=void\ hcf()
+comment3.params=
+comment3.target=void\ nummdeno()
+comment4.params=
+comment4.target=void\ main()
+numComments=5

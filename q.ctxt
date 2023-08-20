@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=q
+comment1.params=arr\ a\ b
+comment1.target=void\ swap(int[],\ int,\ int)
+comment2.params=arr\ start\ end
+comment2.target=int\ getPivot(int[],\ int,\ int)
+comment3.params=arr\ start\ end
+comment3.target=void\ qsort(int[],\ int,\ int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

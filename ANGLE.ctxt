@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ANGLE
+comment1.params=j\ k
+comment1.target=ANGLE(int,\ int)
+comment2.params=
+comment2.target=void\ fnDisplay()
+comment3.params=A\ B
+comment3.target=ANGLE\ fnAddAngle(ANGLE,\ ANGLE)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

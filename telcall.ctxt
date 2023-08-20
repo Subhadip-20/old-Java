@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=telcall
+comment1.params=
+comment1.target=telcall()
+comment2.params=x\ y\ k
+comment2.target=telcall(int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ compute()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

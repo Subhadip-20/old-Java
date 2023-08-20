@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Salesman
+comment1.params=
+comment1.target=Salesman()
+comment2.params=n\ ad
+comment2.target=void\ reradDeatails(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ show()
+numComments=4

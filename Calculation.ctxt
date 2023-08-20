@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calculation
+comment1.params=a\ b
+comment1.target=void\ sum(int,\ int)
+comment2.params=a\ b\ c
+comment2.target=void\ sum(int,\ int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

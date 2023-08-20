@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=peso
+comment1.params=x
+comment1.target=peso(int)
+comment2.params=
+comment2.target=void\ fnfill()
+comment3.params=
+comment3.target=void\ fnshow()
+comment4.params=
+comment4.target=boolean\ fnIsPseudo()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Transarray
+comment1.params=
+comment1.target=Transarray()
+comment2.params=mm\ nn
+comment2.target=Transarray(int,\ int)
+comment3.params=
+comment3.target=void\ fillarray()
+comment4.params=A
+comment4.target=void\ transpose(Transarray)
+comment5.params=
+comment5.target=void\ display()
+numComments=6
