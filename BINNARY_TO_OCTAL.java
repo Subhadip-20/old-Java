@@ -4,7 +4,7 @@ class BINNARY_TO_OCTAL
   { Scanner sc= new Scanner (System.in);
     System.out.println("enter a number");
     String str=sc.nextLine();
-    String arr[]={"000","001","010","011","100","101","110","111"};String newstr="";
+    String arr[]={"000","001","010","011","100","101","110","111"};
     if(str.length()%3!=0)
     {   if (str.length()%3==2)
         str="0".concat(str); 
@@ -24,6 +24,7 @@ class BINNARY_TO_OCTAL
           continue ; 
        }
     }
+    sc.close();
 }
 }   
     

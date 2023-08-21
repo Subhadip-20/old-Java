@@ -10,7 +10,6 @@ public class circular
         int l=g.length();
         l-=2;
         System.out.println(l);
-        String q="";
         int t=0;
         for(int i=1;i<=l;i++)
         {
@@ -38,5 +37,6 @@ public class circular
         }
         else
         System.out.println("NOT CIRCULAR PRIME");
+        sc.close();
     }
 }

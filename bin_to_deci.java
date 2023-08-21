@@ -16,6 +16,7 @@ public class bin_to_deci
             n/=10;
         }
         System.out.println("EQUIVALENT DECIMAL        "+(int)d);
+         sc.close();
     }
-    
+   
 }

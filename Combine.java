@@ -13,7 +13,7 @@ public class Combine
         System.out.println("Enter the elements of the array");
         for(int i=0;i<size;i++)
         com[i]=sc.nextInt();
-
+        sc.close();
     }
     void sort()
     {
@@ -65,5 +65,6 @@ public class Combine
         ob3.mix(ob1,ob2);
         ob3.sort();
         ob3.display();
+        sc.close();
     }
 }

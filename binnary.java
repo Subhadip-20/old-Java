@@ -23,5 +23,6 @@ public class binnary
             System.out.println("number found");
             else
             System.out.println("number not found");
+            sc.close();
 }
 }

@@ -25,7 +25,7 @@ public class b
         }
         if (s==n)
         System.out.println(g+",");
-        
+        sc.close();
     }}
     
 

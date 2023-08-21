@@ -39,5 +39,6 @@ class BoxPacking_ISC2017
             System.out.println("\tTotal number of boxes   = "+copy);
             System.out.println("\tTotal number of cartons = "+totalCart);
         }
+        sc.close();
     }
 }

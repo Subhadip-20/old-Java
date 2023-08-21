@@ -16,6 +16,7 @@ public class Collection
           Scanner sc=new Scanner(System.in);
           for (int i=0;i<len;i++)
           {arr[i]=sc.nextInt();}
+          sc.close();
       }
       Collection common(Collection d)
       {

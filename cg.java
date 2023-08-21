@@ -6,7 +6,7 @@ public class cg
         int a[]={31,28,31,30,31,30,31,31,30,31,30,31};
         if (y%4==0)
         a[1]=29;
-        int d1;int dn=0;
+        int dn=0;
         for(int i=1;i<y;i++)
         {
             if(i%4==0)
@@ -50,6 +50,7 @@ public class cg
         System.out.println(l);
         System.out.println(m);
         System.out.println("Difference in date = "+Math.abs(l-m));
+        sc.close();
     }
     
 }
